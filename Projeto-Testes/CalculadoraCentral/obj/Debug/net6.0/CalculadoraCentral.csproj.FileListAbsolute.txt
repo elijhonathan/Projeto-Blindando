@@ -1,0 +1,15 @@
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\bin\Debug\net6.0\CalculadoraCentral.exe
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\bin\Debug\net6.0\CalculadoraCentral.deps.json
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\bin\Debug\net6.0\CalculadoraCentral.runtimeconfig.json
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\bin\Debug\net6.0\CalculadoraCentral.dll
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\bin\Debug\net6.0\CalculadoraCentral.pdb
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.csproj.AssemblyReference.cache
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.GeneratedMSBuildEditorConfig.editorconfig
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.AssemblyInfoInputs.cache
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.AssemblyInfo.cs
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.csproj.CoreCompileInputs.cache
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.dll
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\refint\CalculadoraCentral.dll
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.pdb
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\CalculadoraCentral.genruntimeconfig.cache
+E:\documentos old\Study\Dio\Projeto-Testes\CalculadoraCentral\obj\Debug\net6.0\ref\CalculadoraCentral.dll
